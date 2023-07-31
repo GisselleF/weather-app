@@ -1,0 +1,46 @@
+{
+  "weather": [
+    {
+      "location": {
+        "name": "Buenos Aires",
+        "region": "Distrito Federal",
+        "country": "Argentina",
+        "lat": -34.59,
+        "lon": -58.67,
+        "tz_id": "America/Argentina/Buenos_Aires",
+        "localtime_epoch": 1690769444,
+        "localtime": "2023-07-30 23:10"
+      },
+      "current": {
+        "last_updated_epoch": 1690768800,
+        "last_updated": "2023-07-30 23:00",
+        "temp_c": 12,
+        "temp_f": 53.6,
+        "is_day": 0,
+        "condition": {
+          "text": "Despejado",
+          "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code": 1000
+        },
+        "wind_mph": 2.5,
+        "wind_kph": 4,
+        "wind_degree": 50,
+        "wind_dir": "NE",
+        "pressure_mb": 1019,
+        "pressure_in": 30.09,
+        "precip_mm": 0,
+        "precip_in": 0,
+        "humidity": 88,
+        "cloud": 0,
+        "feelslike_c": 11.4,
+        "feelslike_f": 52.6,
+        "vis_km": 10,
+        "vis_miles": 6,
+        "uv": 1,
+        "gust_mph": 9.8,
+        "gust_kph": 15.8
+      },
+      "id": 1
+    }
+  ]
+}
